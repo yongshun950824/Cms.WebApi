@@ -1,0 +1,7 @@
+Needs of minimal APIs
+
+- Remove entry barrier for beginners
+- Create APIs with less dependencies
+- Embrace microservices
+- Create quick PoC
+- More control
